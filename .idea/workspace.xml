@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfc3918-fcfe-4850-bd38-5103fc3b5302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bai3-ArrayAndMethodToJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse/array/DemoReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverse/array/ReverseElementArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/value/array/SearchValueArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +45,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseElementArray">
+  <component name="RunManager" selected="Application.SearchValueArray">
     <configuration name="DemoReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="reverse.array.DemoReverseArray" />
       <module name="Bai3-ArrayAndMethodToJava" />
@@ -79,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchValueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.value.array.SearchValueArray" />
+      <module name="Bai3-ArrayAndMethodToJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.value.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchValueArray" />
         <item itemvalue="Application.ReverseElementArray" />
         <item itemvalue="Application.DemoReverseArray" />
       </list>
@@ -94,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670120707306</updated>
-      <workItem from="1670120708596" duration="1825000" />
+      <workItem from="1670120708596" duration="2899000" />
     </task>
     <servers />
   </component>
