@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfc3918-fcfe-4850-bd38-5103fc3b5302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/temperature/ConvertTemperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/search/value/min/array/SearchValueMinArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,26 +44,13 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ConvertTemperature">
+  <component name="RunManager" selected="Application.SearchValueMinArray">
     <configuration name="ConvertTemperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="temperature.ConvertTemperature" />
       <module name="Bai3-ArrayAndMethodToJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="temperature.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverse.array.DemoReverseArray" />
-      <module name="Bai3-ArrayAndMethodToJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="reverse.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchValueMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="search.value.min.array.SearchValueMinArray" />
+      <module name="Bai3-ArrayAndMethodToJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.value.min.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchValueMinArray" />
         <item itemvalue="Application.ConvertTemperature" />
         <item itemvalue="Application.SearchValueMaxArray" />
         <item itemvalue="Application.SearchValueArray" />
         <item itemvalue="Application.ReverseElementArray" />
-        <item itemvalue="Application.DemoReverseArray" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670120707306</updated>
-      <workItem from="1670120708596" duration="5573000" />
+      <workItem from="1670120708596" duration="6365000" />
     </task>
     <servers />
   </component>
