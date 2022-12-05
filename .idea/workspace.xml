@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfc3918-fcfe-4850-bd38-5103fc3b5302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayMerge/ArrayMerge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindElementMax/FindElementMaxToArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IQjT4hfLJmryAFoEO2C8nP05cX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +47,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayMerge">
+  <component name="RunManager" selected="Application.FindElementMaxToArray">
     <configuration name="AddElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deleteElementArr.AddElementArray" />
       <module name="Bai3-ArrayAndMethodToJava" />
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchValueMinArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="search.value.min.array.SearchValueMinArray" />
+    <configuration name="FindElementMaxToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindElementMax.FindElementMaxToArray" />
       <module name="Bai3-ArrayAndMethodToJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="search.value.min.array.*" />
+          <option name="PATTERN" value="FindElementMax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindElementMaxToArray" />
         <item itemvalue="Application.ArrayMerge" />
         <item itemvalue="Application.AddElementArray" />
         <item itemvalue="Application.DeleteElementArray" />
         <item itemvalue="Application.demoDraw" />
-        <item itemvalue="Application.SearchValueMinArray" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +128,7 @@
       <workItem from="1670120708596" duration="6365000" />
       <workItem from="1670232512912" duration="72000" />
       <workItem from="1670232738407" duration="1641000" />
-      <workItem from="1670234423861" duration="6953000" />
+      <workItem from="1670234423861" duration="10290000" />
     </task>
     <servers />
   </component>
