@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbfc3918-fcfe-4850-bd38-5103fc3b5302" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindElementMax/FindElementMaxToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindElementMinToArray/FindMinToArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindElementMax/FindElementMaxToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindElementMax/FindElementMaxToArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindElementMaxToArray">
+  <component name="RunManager" selected="Application.FindMinToArray">
     <configuration name="AddElementArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="deleteElementArr.AddElementArray" />
       <module name="Bai3-ArrayAndMethodToJava" />
@@ -100,20 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demoDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demoDraw" />
+    <configuration name="FindMinToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindElementMinToArray.FindMinToArray" />
       <module name="Bai3-ArrayAndMethodToJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FindElementMinToArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMinToArray" />
         <item itemvalue="Application.FindElementMaxToArray" />
         <item itemvalue="Application.ArrayMerge" />
         <item itemvalue="Application.AddElementArray" />
         <item itemvalue="Application.DeleteElementArray" />
-        <item itemvalue="Application.demoDraw" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +136,7 @@
       <workItem from="1670232512912" duration="72000" />
       <workItem from="1670232738407" duration="1641000" />
       <workItem from="1670234423861" duration="10290000" />
+      <workItem from="1670288794095" duration="6147000" />
     </task>
     <servers />
   </component>
